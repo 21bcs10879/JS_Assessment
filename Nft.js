@@ -14,7 +14,7 @@ Assessment Requirements
 // NFT object using the parameters passed to it for its metadata, 
 // and store it in the variable above.
 
-let nfts = [];
+const nfts = [];
 
 function mintNFT(name, details, image, owner) {
    
